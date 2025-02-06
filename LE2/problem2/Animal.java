@@ -1,3 +1,7 @@
 class Animal{
-    abstract public void makevoice(){};
+    abstract public void  eat(){};
+
+    public void sleep(){
+        
+    }
 }
